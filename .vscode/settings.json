@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 5501,
+
+    "highlight.regexes": {
+        "(//1.*|<!--1.*)": [{ "backgroundColor": "#028c00", "color": "#ffffff" }],
+        "(//2.*|<!--2.*)": [{ "backgroundColor": "#66ff64", "color": "#000000" }],
+        "(//4.*|<!--4.*)": [{ "backgroundColor": "#ffee00", "color": "#000000" }],
+        "(//3.*|<!--3.*)": [{ "backgroundColor": "#00026e", "color": "#ffffff" }]
+    }
+    
+}

@@ -1,0 +1,48 @@
+{
+    "HTML Snippets": {
+        "block-tabelle": {
+            "prefix": "np3 TABELLE 3x3",
+            "body": [
+                "<div class=\"block-tabelle-container\">",
+                "  <table class=\"block-tabelle\">",
+                "    <thead>",
+                "        <tr>",
+                "            <th>$1</th>",
+                "            <th>$2</th>",
+                "            <th>$3</th>",
+                "        </tr>",
+                "    </thead>",
+                "    <tbody>",
+                "        <tr>",
+                "            <td>$4</td>",
+                "            <td>$5</td>",
+                "            <td>$6</td>",
+                "        </tr>",
+                "        <tr>",
+                "            <td>$7</td>",
+                "            <td>$8</td>",
+                "            <td>$9</td>",
+                "        </tr>",
+                "        <tr>",
+                "            <td>$10</td>",
+                "            <td>$11</td>",
+                "            <td>$12</td>",
+                "        </tr>",
+                "        <tr>",
+                "            <td>$13</td>",
+                "            <td>$14</td>",
+                "            <td>$15</td>",
+                "        </tr>",
+                "        <tr>",
+                "            <td>$16</td>",
+                "            <td>$17</td>",
+                "            <td>$18</td>",
+                "        </tr>",
+                "    </tbody>",
+                "  </table>",
+                "</div>"
+            ],
+            "description": "Tabelle mit 3 Spalten und 5 Zeilen"
+        }
+    }
+}

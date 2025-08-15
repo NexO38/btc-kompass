@@ -1,0 +1,25 @@
+{
+	"HTML Snippets": {
+		"block-hyperlink-img": {
+			"prefix": "np3 LINK+BILDLINK",
+			"body": [
+			"<div class=\"block-kapitel-titel\">",
+			"    $1",
+			"</div>",
+			"<div class=\"block-text-beside-img_container\">",
+			"    <div style=\"order: 1;\" class=\"block-text-beside-img_text\">",
+			"    <p>",
+			"        $2",
+			"    </p>",
+			"    ",
+			"    </div>",
+			"    <div style=\"order: 2; width: 40%;\" class=\"block-text-beside-img_img\">",
+			"    <a href=\"$3\" target=\"_blank\"><img src=\"images/$4\" alt=\"Bild\"></a>",
+			"    </div>",
+			"</div>"
+			],
+			"description": "Block Hyperlink + Bild"
+		}
+	}
+}
+

@@ -1,0 +1,80 @@
+/*//1  COLORS */
+
+:root {
+	--c0: #000000;
+	--c1: #ffffff;
+
+	--cA1: #111111;
+	--cA2: #1b1b1b;
+	--cA3: #454545;
+	--cA4: #868686;
+
+	--cB0: #001332;
+	--cB1: #04275F;
+	--cB2: #0074b3;
+	--cB3: #7b3500;
+	--cB4: #4dc4ff;
+
+	--BTC: #FF9900;
+	
+	--cC1: #720000;
+	--cC2: #ff0000;
+
+	--cD1: #095501;
+	--cD2: #09ff00;
+
+	--cAG: linear-gradient(90deg,
+    var(--cA1),var(--cA2),var(--cA2),var(--cA2),var(--cA1));
+	 --cBG: linear-gradient(90deg,
+    var(--cB1),var(--cB2),var(--cB3),var(--cB2),var(--cB1));
+
+
+	--bg-body: var(--cAG);
+	--tx-body: var(--c1);
+
+	--bg-headline: var(--c0);
+	--tx-headline: var(--c1);
+
+	--bg-menue: var(--cA3);
+	--bd-menue: var(--cA2);
+	
+	--bg-button: var(--cA2);
+	--bd-button: var(--cA2);
+	--tx-button: var(--c1);
+
+	--bg-buttHV: var(--cA4);
+
+	--bg-content: var(--c0);
+	--tx-title: var(--c1);
+
+	--bg-kapitel: var(--cB1);
+	--bg-kapiHov: var(--cB2);
+	--bg-text: var(--cA2);
+
+	--bg-important: var(--cC1);
+	--bd-important: var(--cC2);
+	--tx-important: var(--c1);
+
+	--bg-empfehlung: var(--cD1);
+	--bd-empfehlung: var(--cD2);
+	--tx-empfehlung: var(--c1);
+
+	--bg-zitat: #005e8d;
+	--bd-zitat: #4dc4ff;
+	--tx-zitat: var(--c1);
+
+	--bg-frame: var(--cB0);
+	--bd-frame: var(--cA1);
+	--tx-frame: var(--c1);
+
+	--tx-url: var(--cB2);
+
+	--bg-ImgUnt: var(--cB0);
+	--bg-ImgTxt: var(--cB2);
+	--bg-Beside: var(--cB1);
+	--schriftart: Montserrat;
+	--bd-test: 0px;
+	--width-content: 100%;
+
+	--bg-footer: var(--cA1)
+}

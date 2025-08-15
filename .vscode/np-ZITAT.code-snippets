@@ -1,0 +1,14 @@
+{
+	"HTML Snippets": {
+		"block-text-zitat": {
+			"prefix": "np4 ZIZAT",
+			"body": [
+				"	<div class=\"block-text-zitat\">",
+				"		$1",
+				"	</div>"
+			],
+			"description": "Block Zitat"
+		}
+	}
+}
+

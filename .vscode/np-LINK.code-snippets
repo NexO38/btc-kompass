@@ -1,0 +1,12 @@
+{
+	"HTML Snippets": {
+		"block-hyperlink": {
+			"prefix": "np3 LINK",
+			"body": [
+				"<a href=\"$1\" target=\"_blank\">$2</a>"
+			],
+			"description": "Block Hyperlink"
+		}
+	}
+}
+

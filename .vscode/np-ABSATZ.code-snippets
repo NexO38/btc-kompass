@@ -1,0 +1,14 @@
+{
+"HTML Snippets": {
+	"block-text-absatz": {
+		"prefix": "np3 ABSATZ",
+		"body": [
+			"<div class=\"block-text-absatz\">",
+			"    $1",
+			"</div>"
+		],
+		"description": "Text Absatz"
+	}
+}
+}
+	

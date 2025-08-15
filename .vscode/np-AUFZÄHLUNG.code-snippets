@@ -1,0 +1,18 @@
+{
+"HTML Snippets": {
+	"block-text-aufzaehlung": {
+		"prefix": "np3 AUFZÄHLUNG",
+		"body": [
+			"<div>",
+			"  <ul class=\"block-text-aufzaehlung\">", 
+			"    <li>$1</li>",
+			"    <li>$2</li>",
+			"    <li>$3</li>",
+			"  </ul>",
+			"</div>"
+		],
+		"description": "Text Aufzaehlung"
+	}
+}
+}
+	

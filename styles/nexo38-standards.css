@@ -1,0 +1,166 @@
+/*//1  STANDARDS & BASICS */
+
+
+html {
+	font-size: 8px;
+}
+
+body {
+	background: var(--bg-body);
+	font-family: 'Montserrat', sans-serif;
+	color: var(--tx-body);
+	max-width: 100%;
+	margin-top: 0rem;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0rem;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+/*//3      VIEWPORT > 768 px          */
+
+@media only screen and (min-width: 768px) {
+	:root {--width-content: 75%;}
+	html  {font-size: 11px;}
+	body  {max-width: 100%;}
+}
+
+/*//3      VIEWPORT > 1200 px         */
+
+@media only screen and (min-width: 1200px) {
+	:root {--width-content: 60%;}
+	html {font-size: 14px;}
+}
+
+/*//3      STANDARD-ELEMENTE        */
+
+form {
+	margin: 0.0rem;
+	padding: 0.0rem;
+	text-align: center;
+}
+
+label {
+	margin: 1rem 0rem 0.0rem 0rem;
+	font-size: 1.5rem;
+	color: var(--tx-content1);
+}
+
+input {
+	margin: 0.5rem;
+	padding: 0.5rem;
+}
+
+a {
+	margin: 0px;
+	padding: 0px;
+	color: var(--tx-url);
+}
+
+h2 {
+	width: var(--width-text);
+	position: relative;
+	font-size: 1.5rem;
+	font-weight: bold;
+	text-align: left;
+	margin: 1.0rem auto;
+	color: var(--tx-content);
+	border: var(--bd-test) solid green;
+}
+
+p {
+	margin: 1.5rem;
+}
+
+hr {
+	width: 75%;
+	margin: 2rem auto;
+}
+
+table {
+	border: 1px solid #4dc4ff;
+	border-collapse: collapse;
+	font-size: 1.5rem;
+}
+
+table, tr, td, th {
+	border: 1px solid #4dc4ff;
+	padding: 0.5rem;
+	vertical-align: top;
+
+}
+
+ul {
+ }
+li {
+	list-style-type: "☑ ";
+}
+
+
+summary {
+	display: block;
+	position: relative;
+
+	left: 0rem;
+	width: 90%;
+	margin-top: 1.0rem;
+	margin-bottom: 0rem;
+	padding: 0.5rem 0.5rem 0.5rem 3rem;
+	background-color: var(--bg-kapitel);
+	border-radius: 0 3rem 3rem 0;
+	
+	color: var(--tx-content);
+	text-align: left;
+	font-size: 2rem;
+	font-weight: bold;
+	font-style: normal;
+	border: var(--bd-test) solid green;
+	list-style-type: none;
+    text-decoration: none;
+}
+
+summary:hover {
+    background-color: var(--bg-kapiHov);
+}  
+
+
+/*//3 ----- BUTTON ----- */
+
+button,
+#button {
+	padding: 1.0rem;
+	margin: 0.0rem;
+	cursor: pointer;
+
+	border: 0px solid var(--bd-menue);
+	border-radius: 0.0rem;
+	background-color: var(--bg-menue);
+
+	color: var(--tx-button);
+	font-family: inherit;
+	font-weight: bold;
+	text-align: center;
+	font-size: 1.3rem;
+	text-decoration: none;
+}
+
+button:hover,
+#button:hover {
+	background-color: var(--bg-buttHV);
+}
+
+button:hover,
+#button:active {
+	background-color: var(--bg-buttHV);
+}
+
+@media only screen and (min-width: 768px) {
+
+	button,
+	#button {
+		font-size: 1.3rem;
+	}
+}

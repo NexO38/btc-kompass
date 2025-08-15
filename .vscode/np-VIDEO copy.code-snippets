@@ -1,0 +1,24 @@
+{
+"HTML Snippets": {
+	"block-video-text": {
+		"prefix": "np7 VIDEO+TEXT",
+		"body": [
+			"<div class=\"block-kapitel-titel\">",
+			"    $1",
+			"</div>",
+			"<div class=\"block-text-beside-img_container\">",
+			"    <div style=\"order: 1;\" class=\"block-text-beside-img_text\">",
+			"        <p>$2",
+			"        </p>",
+			"    </div>",
+			"        <div style=\"order: 2; width: 50%;\" class=\"block-text-beside-img_img\">",
+			"        <iframe",
+			"            src=\"https://www.youtube.com/embed/$3\" title=\"$1\" frameborder=\"0\" allowfullscreen>",
+			"        </iframe>",
+			"    </div>",
+			"</div>"
+		],
+		"description": "Video Einbettung nebst Text"
+	}
+}
+}

@@ -1,0 +1,25 @@
+{
+"HTML Snippets": {
+	"block-video-emb2": {
+		"prefix": "np7 VIDEO",
+		"body": [
+			"<div class=\"block-video-embedded\">",
+
+			"  <div class=\"block-video\">",
+			"        <iframe",
+			"            src=\"${1:Video-Quelle}\" frameborder=\"0\">",
+			"        </iframe>",
+			"  </div>",
+
+			"  <div class=\"block-video\">",
+			"        <iframe",
+			"            src=\"${2:Video-Quelle}\" frameborder=\"0\">",
+			"        </iframe>",
+			"  </div>",
+			
+			"</div>"
+		],
+		"description": "Video Einbettung"
+	}
+}
+}

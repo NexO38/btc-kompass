@@ -1,0 +1,21 @@
+{
+	"HTML Snippets": {
+		"block-text-beside-image": {
+			"prefix": "np7 BILD+LINK neben TEXT",
+			"body": [
+				"<div class=\"block-text-beside-img_container\">",
+				"    <div style=\"order: 1;\" class=\"block-text-beside-img_text\">",
+				"        <p>$1</p>",
+				"    </div>",
+				"    <div style=\"order: 2; width: 50%;\" class=\"block-text-beside-img_img\">",
+				"        <a href=\"$2\" target=\"_blank\">",
+				"            <img src=\"images/$3\" alt=\"Bild\">",
+				"        </a>",
+				"    </div>",
+				"</div>"
+			],
+			"description": "Block mit einem Textfeld neben einem Bild"
+		}
+	}
+}
+

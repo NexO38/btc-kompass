@@ -1,0 +1,13 @@
+{
+"HTML Snippets": {
+	"block-text-absatz": {
+		"prefix": "npc KOMMENTAR",
+		"body": [
+			"<!--3 $1 -->",
+			""
+		],
+		"description": "Text Absatz"
+	}
+}
+}
+	

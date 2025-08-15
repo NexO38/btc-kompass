@@ -1,0 +1,14 @@
+{
+	"HTML Snippets": {
+		"block-text-ACHTUNG": {
+			"prefix": "np4 ACHTUNG",
+			"body": [
+				"	<div class=\"block-text-ACHTUNG\">",
+				"		$1",
+				"	</div>"
+			],
+			"description": "Block mit einem wichtigen Hinweis"
+		}
+	}
+}
+

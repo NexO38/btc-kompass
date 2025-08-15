@@ -1,0 +1,13 @@
+{
+"HTML Snippets": {
+	"block-kapitel-titel": {
+		"prefix": "np1 KAPITELÜBERSCHRIFT",
+		"body": [
+			"<div class=\"block-kapitel-titel\">",
+			"    $1",
+			"</div>"
+		],
+		"description": "Kapitel Titel"
+	}
+}
+}

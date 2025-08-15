@@ -1,0 +1,14 @@
+{
+"HTML Snippets": {
+	"block-text-vorspann": {
+		"prefix": "np1 VORSPANN",
+		"body": [
+			"<div class=\"block-text-vorspann\">",
+			"    $1",
+			"</div>"
+		],
+		"description": "Text in einem Rahmen"
+	}
+}
+}
+	

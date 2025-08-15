@@ -1,0 +1,19 @@
+{
+"HTML Snippets": {
+	"block-text-overlay-image": {
+		"prefix": "np7 BILD unter TEXT",
+		"body": [
+			"<div class=\"block-img-ovl-txt_container\">",
+			"    <div class=\"block-img-ovl-txt_img\">",
+			"        <img style=\"top: -50%;\" src=\"images/road-forrest.jpg\" alt=\"Bildbeschreibung\">",
+			"        </div>",
+			"    <div class=\"block-img-ovl-txt_text\">",
+			"        <p>$1</p>",
+			"    </div>",
+			"</div>"
+		],
+		"description": "Text über Bild"
+	}
+}
+}
+	

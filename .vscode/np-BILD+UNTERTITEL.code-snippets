@@ -1,0 +1,19 @@
+{
+	"HTML Snippets": {
+		"block-image-untertitel": {
+			"prefix": "np7 BILD + UNTERTITEL",
+			"body": [
+				"<div class=\"block-img-untertitel_container\">",
+				"    <div style=\"order: 1;\" class=\"block-img-untertitel_img\">",
+				"        <img src=\"images/weg.png\" alt=\"Bild\">",
+				"    </div>",
+				"    <div style=\"order: 2;\" class=\"block-img-untertitel_text\">",
+				"        $1",
+				"    </div>",
+				"</div>"
+			],
+			"description": "Block mit einem Bild plus Untertitel"
+		}
+	}
+}
+

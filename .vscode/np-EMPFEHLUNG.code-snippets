@@ -1,0 +1,14 @@
+{
+	"HTML Snippets": {
+		"block-text-empfehlung": {
+			"prefix": "np4 EMPFEHLUNG",
+			"body": [
+				"	<div class=\"block-text-empfehlung\">",
+				"		$1",
+				"	</div>"
+			],
+			"description": "Block Empfehlung"
+		}
+	}
+}
+

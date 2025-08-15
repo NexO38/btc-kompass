@@ -1,0 +1,29 @@
+{
+"HTML Snippets": {
+	"block-spalten": {
+		"prefix": "np3 SPALTEN",
+		"body": [
+			"<div class=\"block-flex-container\">",
+			"<div class=\"block-spalte\">",
+			"    <div class=\"block-spalte-title\">Titel</div><hr>",
+			"       <div class=\"block-spalte-fett\">fett</div>",
+			"        <div class=\"block-spalte-normal\">normal</div>",
+			"    </div>",
+			"",
+			"    <div class=\"block-spalte\">",
+			"        <div class=\"block-spalte-title\">Titel</div><hr>",
+			"        <div class=\"block-spalte-fett\">fett</div>",
+			"        <div class=\"block-spalte-normal\">normal</div>",
+			"    </div>",
+			"",
+			"    <div class=\"block-spalte\">",
+			"        <div class=\"block-spalte-title\">Titel</div><hr>",
+			"        <div class=\"block-spalte-fett\">fett</div>",
+			"        <div class=\"block-spalte-normal\">normal</div>",
+			"    </div>",
+			"</div>"
+		],
+"description": "Container mit Spalten"
+}
+}
+}
