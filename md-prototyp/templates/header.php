@@ -9,6 +9,6 @@
 </head>
 <body>
 <div class="headline-container">
-    <a href="index_new.php?seite=quickstart"><img class="site-icon" src="/images/btc2.png" alt="Logo"></a>
-    <div class="site-title">BTC-Kompass</div>
+    <a href="index.php?seite=quickstart"><img class="site-icon" src="/images/btc2.png" alt="Logo"></a>
+    <div class="site-title">BTC-Kompass 1.0</div>
 </div>
